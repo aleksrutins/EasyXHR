@@ -1,3 +1,6 @@
 {
-
+  "name": "Easy XHR",
+  "version": "1.0",
+  "dependencies": [],
+  "pkgfile": "https://cdn.jsdelivr.net/gh/munchkinhalfling/EasyXHR/easy-xhr.js"
 }
