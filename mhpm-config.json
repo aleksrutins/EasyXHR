@@ -2,5 +2,5 @@
   "name": "Easy XHR",
   "version": "1.0",
   "dependencies": [],
-  "pkgfile": "https://cdn.jsdelivr.net/gh/munchkinhalfling/EasyXHR@latest/easy-xhr.js"
+  "pkgfile": "https://gitcdn.link/repo/munchkinhalfling/EasyXHR/master/easy-xhr.js"
 }
